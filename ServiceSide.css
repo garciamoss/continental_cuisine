@@ -1,0 +1,26 @@
+#sidebar2 p {
+	font-size: 11px;
+	line-height: 150%;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin-top: 0px;
+	margin-bottom: 12px;
+}
+#sidebar2 img {
+	margin-bottom: 10px;
+}
+#sidebar2 p a {
+	color: #7D000F;
+	text-decoration: none;
+}
+#sidebar2 h1 {
+	font-size: 12px;
+	font-weight: bold;
+	color: #800000;
+	margin-bottom: 0px;
+}
+#sidebar2 ol {
+	font-size: 11px;
+	line-height: 150%;
+	margin-top: 5px;
+	color: #fff;
+}

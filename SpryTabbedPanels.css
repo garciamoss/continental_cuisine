@@ -1,0 +1,6 @@
+.TabbedPanelsTab:focus {
+	outline: none;
+}
+.Accordion:focus {
+	outline: none;
+}
